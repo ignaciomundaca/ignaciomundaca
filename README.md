@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ignaciomundaca
 - 👀 I’m interested in learning more about the Data Science World and im looking for the chance of working as a Data Analyst
-- 🌱 I’m currently learning Data Processing in Excel in the Coderhouse academy
+- 🌱 I’m currently learning Data Science in Desafiolatam.
 - 💞️ I’m looking to collaborate on Data Analysis Projects and have the opportunity to give my analytical thinking a chance
 - 📫 How to reach me... you can send me an email to ignacio.mundaca24@gmail.com or call me +56987579568
 
